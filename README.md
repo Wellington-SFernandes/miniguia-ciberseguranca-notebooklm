@@ -1,24 +1,26 @@
-# 🔐 Miniguia Prático de Cibersegurança com IA (NotebookLM)
+# 💰 Miniguia Prático de Educação Financeira com IA (NotebookLM)
 
 ## 🎯 Contexto e Objetivo
 
-Este projeto foi desenvolvido com foco no estudo dos fundamentos de cibersegurança, com ênfase em análise de redes, utilizando o NotebookLM como ferramenta de apoio.
+Este projeto foi desenvolvido com o objetivo de estudar conceitos introdutórios de educação financeira, utilizando o NotebookLM como ferramenta de apoio ao aprendizado.
 
-O objetivo é organizar o conhecimento de forma estruturada, explorar fontes confiáveis e aplicar inteligência artificial como suporte ao aprendizado técnico, desenvolvendo também habilidades de análise crítica e criação de prompts eficientes.
+A proposta é organizar conteúdos relevantes, compreender melhor a gestão de finanças pessoais e utilizar inteligência artificial como suporte para aprofundar o conhecimento de forma estruturada.
+
+Além disso, o projeto busca desenvolver a capacidade de formular perguntas mais eficientes (prompts) e analisar criticamente as respostas geradas.
 
 ---
 
 ## 🧠 Uso do NotebookLM
 
-As fontes selecionadas foram inseridas no NotebookLM para auxiliar no processo de estudo e exploração dos conteúdos.
+As fontes selecionadas foram inseridas no NotebookLM para auxiliar no processo de estudo.
 
 A ferramenta foi utilizada para:
-- Gerar resumos automáticos
-- Explorar conceitos técnicos
+- Gerar resumos dos conteúdos
+- Explicar conceitos financeiros
 - Responder perguntas direcionadas
-- Refinar o entendimento através de múltiplos prompts
+- Testar diferentes variações de prompts
 
-O uso da IA permitiu acelerar o aprendizado e melhorar a organização das informações.
+O uso da IA contribuiu para acelerar o aprendizado e melhorar a organização das informações.
 
 ---
 
@@ -26,60 +28,60 @@ O uso da IA permitiu acelerar o aprendizado e melhorar a organização das infor
 
 As seguintes fontes abertas foram utilizadas:
 
-1. https://owasp.org/www-project-top-ten/  
-2. https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security  
-3. https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html  
-4. https://nmap.org/book/man.html  
+1. https://www.serasa.com.br/ensina/educacao-financeira/  
+2. https://www.bcb.gov.br/cidadaniafinanceira  
+3. https://www.infomoney.com.br/guias/educacao-financeira/  
+4. https://www.sebrae.com.br/sites/PortalSebrae/artigos/educacao-financeira  
 
-Essas fontes foram escolhidas por sua relevância e credibilidade no contexto de cibersegurança.
+Essas fontes foram escolhidas por sua relevância e credibilidade no tema de educação financeira.
 
 ---
 
 ## 🤖 Engenharia de Prompts
 
-Durante o estudo, diferentes abordagens de prompts foram testadas para melhorar a qualidade das respostas.
+Durante o estudo, diferentes abordagens de prompts foram utilizadas para melhorar a qualidade das respostas.
 
 ### Prompt 1
-"Explique o que é cibersegurança de forma simples"
+"O que é educação financeira?"
 
-📌 Resultado: resposta introdutória, com pouca profundidade.
+📌 Resultado: resposta básica, útil para introdução.
 
 ---
 
 ### Prompt 2
-"Explique cibersegurança com foco em redes, incluindo exemplos reais"
+"Explique educação financeira com exemplos do dia a dia"
 
-📌 Resultado: resposta mais completa, com melhor contextualização.
+📌 Resultado: resposta mais prática e fácil de entender.
 
 ---
 
 ### Prompt 3
-"Liste vulnerabilidades comuns em redes e como identificá-las com ferramentas como Nmap"
+"Como organizar finanças pessoais e evitar dívidas?"
 
-📌 Resultado: resposta prática e aplicável.
+📌 Resultado: resposta mais aplicável à realidade.
 
 ---
 
 ## 📈 Evolução dos Prompts
 
-Inicialmente, foram utilizadas perguntas genéricas, resultando em respostas superficiais.
+No início, os prompts eram genéricos, o que resultava em respostas superficiais.
 
-Com o refinamento dos prompts, foi possível obter respostas mais relevantes ao:
+Com o tempo, foi possível melhorar os resultados ao:
 - Especificar melhor o contexto
-- Solicitar exemplos práticos
-- Direcionar para ferramentas reais
+- Solicitar exemplos reais
+- Direcionar perguntas para situações práticas
 
-Essa evolução foi essencial para melhorar a qualidade do aprendizado.
+Essa evolução foi essencial para obter respostas mais úteis.
 
 ---
 
 ## ⚠️ Dificuldades Encontradas
 
 - Respostas genéricas nos primeiros testes  
-- Necessidade de ajustar os prompts várias vezes  
-- Falta de profundidade sem contexto bem definido  
+- Necessidade de ajustar os prompts  
+- Falta de profundidade quando o contexto não era claro  
 
-Esses pontos foram importantes para entender como interagir melhor com a IA.
+Essas dificuldades ajudaram a melhorar a forma de interação com a IA.
 
 ---
 
@@ -87,65 +89,66 @@ Esses pontos foram importantes para entender como interagir melhor com a IA.
 
 ### 🔹 Resumo
 
-Cibersegurança é o conjunto de práticas voltadas à proteção de sistemas, redes e dados contra acessos não autorizados e ataques.
+Educação financeira é o processo de aprender a administrar o dinheiro de forma consciente, equilibrando ganhos e gastos, evitando dívidas e planejando o futuro.
 
-Na análise de redes, ferramentas como o Nmap permitem identificar dispositivos conectados, portas abertas e possíveis vulnerabilidades. Essa prática é fundamental para prevenir falhas e fortalecer a segurança de ambientes digitais.
+Ter controle financeiro permite tomar decisões mais seguras e alcançar objetivos como comprar bens, investir ou manter estabilidade financeira.
 
 ---
 
 ### 🔹 Aplicação Prática
 
-A análise de redes pode ser aplicada em ambientes reais para:
+A educação financeira pode ser aplicada no dia a dia através de:
 
-- Identificar dispositivos conectados à rede  
-- Detectar portas abertas e serviços ativos  
-- Mapear possíveis pontos de vulnerabilidade  
+- Controle de gastos mensais  
+- Criação de orçamento pessoal  
+- Redução de despesas desnecessárias  
+- Planejamento de metas financeiras  
+- Criação de reserva de emergência  
 
-Ferramentas como o Nmap são amplamente utilizadas por profissionais de segurança para esse tipo de diagnóstico.
+Essas práticas ajudam a evitar dívidas e melhorar a qualidade de vida.
 
 ---
 
 ### 🔹 Glossário
 
-- **Firewall:** sistema que controla o tráfego de rede com base em regras  
-- **Malware:** software malicioso que causa danos ou roubo de dados  
-- **Phishing:** técnica de engenharia social para capturar informações sensíveis  
-- **Porta:** canal de comunicação de rede  
-- **Nmap:** ferramenta de mapeamento e análise de redes  
+- **Orçamento:** planejamento das receitas e despesas  
+- **Dívida:** valor que precisa ser pago a terceiros  
+- **Investimento:** aplicação de dinheiro com objetivo de retorno  
+- **Reserva de emergência:** valor guardado para imprevistos  
+- **Receita:** dinheiro que entra  
+- **Despesa:** dinheiro que sai  
 
 ---
 
 ### 🔹 Prompts Reutilizáveis
 
-- "Explique [conceito] de forma simples e com exemplos práticos"  
-- "Liste vulnerabilidades comuns em [contexto específico]"  
-- "Como analisar a segurança de uma rede utilizando ferramentas reais?"  
+- "Explique [conceito financeiro] de forma simples e com exemplos"  
+- "Como organizar minhas finanças pessoais?"  
+- "Quais erros devo evitar ao lidar com dinheiro?"  
+- "Como criar um orçamento mensal eficiente?"  
 
-Esses prompts podem ser reutilizados para aprofundar estudos futuros.
+Esses prompts podem ser utilizados para revisões futuras.
 
 ---
 
 ## 💡 Aprendizados
 
-- A qualidade das respostas depende diretamente da clareza do prompt  
-- Prompts específicos geram respostas mais úteis e aplicáveis  
-- A IA é uma ferramenta poderosa quando utilizada de forma estratégica  
-- A prática e o refinamento são essenciais no processo de aprendizado  
+- A clareza do prompt influencia diretamente na qualidade da resposta  
+- Exemplos práticos ajudam na compreensão dos conceitos  
+- A organização financeira é essencial para estabilidade  
+- Pequenos hábitos podem gerar grandes resultados ao longo do tempo  
+- A IA pode ser uma aliada no aprendizado quando bem utilizada  
 
 ---
 
 ## 👨‍💻 Sobre este projeto
 
-Este projeto faz parte do meu processo de formação na área de tecnologia, com foco em cibersegurança e análise de redes.
-
-Busco desenvolver habilidades práticas, pensamento crítico e capacidade de resolver problemas reais, utilizando ferramentas modernas e boas práticas do mercado.
+Este projeto faz parte do meu processo de formação na área de tecnologia, com foco no desenvolvimento de habilidades práticas, organização do conhecimento e uso de ferramentas modernas de aprendizado.
 
 ---
 
 ## 🚀 Conclusão
 
-O projeto permitiu consolidar conhecimentos fundamentais em cibersegurança e demonstrar como a inteligência artificial pode ser utilizada como aliada no aprendizado técnico.
+O desenvolvimento deste projeto permitiu compreender melhor os conceitos básicos de educação financeira e demonstrou como a inteligência artificial pode ser utilizada como ferramenta de apoio ao aprendizado.
 
-A experiência reforçou a importância da prática, da organização do conhecimento e da evolução contínua.
-
----
+A experiência reforçou a importância da organização, do pensamento crítico e da evolução contínua.
